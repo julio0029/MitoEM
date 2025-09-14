@@ -3,7 +3,7 @@
 
 '''
 -------------------------------------------------------------------------------
-Copyright© 2021 Jules Devaux / Cody Williams. All Rights Reserved
+Copyright© 2021 Jules Devaux | Tony Hickey | Alice HArford. All Rights Reserved
 Open Source script under Apache License 2.0
 -------------------------------------------------------------------------------
 
